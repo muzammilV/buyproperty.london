@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BuyProperty.London - For Sale</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f9f9f9;
+      color: #222;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+    }
+
+    header {
+      background: url('https://images.unsplash.com/photo-1605276374104-dee4d3b1d8f8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80') no-repeat center center/cover;
+      width: 100%;
+      padding: 60px 20px;
+      color: white;
+    }
+
+    h1 {
+      font-size: 2.8rem;
+      margin-bottom: 0.5rem;
+    }
+
+    p {
+      font-size: 1.2rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .button {
+      background-color: #d62828;
+      color: white;
+      padding: 12px 24px;
+      font-size: 1rem;
+      border: none;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.3s ease;
+    }
+
+    .button:hover {
+      background-color: #a4161a;
+    }
+
+    footer {
+      margin-top: 30px;
+      font-size: 0.9rem;
+    }
+
+    @media (max-width: 600px) {
+      h1 { font-size: 2rem; }
+      p { font-size: 1rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>BuyProperty.London</h1>
+    <p>Premium domain for London’s booming real estate market.<br>Short, brandable & trustworthy.</p>
+    <a class="button" href="https://daaz.com/buy/domains/buyproperty.london" target="_blank">Buy Now on DaaZ</a>
+  </header>
+
+  <footer>
+    Contact: <a href="mailto:mohammedmuzammilv@gmail.com">mohammedmuzammilv@gmail.com</a>
+  </footer>
+</body>
+</html>
